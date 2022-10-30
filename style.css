@@ -18,10 +18,12 @@
 }
 
 @media (max-width: 768px) {
+
   .page-descr {
     text-align: center;
   }
 }
+
 .main-page {
   display: block;
   width: 500px;
