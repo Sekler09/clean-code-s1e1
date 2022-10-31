@@ -43,10 +43,10 @@
   padding: 0px;
 }
 .todoList__item,
-h3 {
-  list-style: none;
+.heading {
+  list-style: noned
 }
-input,
+.input-field,
 .btn {
   outline: none;
 }
